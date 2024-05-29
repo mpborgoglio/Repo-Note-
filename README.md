@@ -1,2 +1,1 @@
-# Repo-Note-
-Primer repo note de prueba
+este proyeto es el primero de la note y es de como crear un repo y clonarlo desde github a mi cescritorio local
